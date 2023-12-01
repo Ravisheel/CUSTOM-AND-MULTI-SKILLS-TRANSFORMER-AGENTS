@@ -6,3 +6,4 @@ In addition I have also built Transformer agents to interact with Humans to perf
 
 More details can be found in .IPYNB file and in google colab. For listening audio please go to google colab to play audios. 
 
+I have also used FlowiseAI application to build the same agents just by Drag & drop UI to build my customized LLM flow. 
